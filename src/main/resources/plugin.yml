@@ -1,0 +1,13 @@
+name: IIVirtual
+version: ${project.version}
+main: me.thefox.iivirtual.IIVirtual
+api-version: 1.13
+authors: [Me]
+description: Illness And Injury
+commands:
+  IILIST:
+    description: List all mod stuffs
+    usage: /<command>
+  IIADD:
+    description: Add a arm
+    usage: /<command> [Player] [Something]
